@@ -1,0 +1,35 @@
+iso3166-1:
+  type: web
+  title: ISO3166-1:2020(en), Codes for the representation of names of countries
+         and their subdivision
+  url: https://www.iso.org/obp/ui/#iso:std:iso:3166:-1:ed-4:v1:en
+
+pandas:
+  type: web
+  title: pandas - Python Data Analysis Library
+  url: https://pandas.pydata.org
+
+project-github:
+  type: web
+  title: "chkrb/ideas-tih-spring-internship-2026: Time-Series Analysis of COVID-19 Data"
+  url: https://github.com/chkrb/ideas-tih-spring-internship-2026
+
+who-covid-datasets:
+  type: web
+  title: Daily frequency reporting of new COVID-19 cases and deaths by date
+         reported to WHO
+  url: https://data.who.int/dashboards/covid19/data
+
+who-regions:
+  type: web
+  title: WHO Organizational Structure
+  url: https://www.who.int/about/structure
+
+wsj-patient-zero:
+  type: article
+  author: ["Page J", "Hinshaw D", "McKay B"]
+  title: In Hunt for Covid-19 Origin, Patient Zero Points to Second Wuhan
+         Market – The man with the first confirmed infection of the new
+         coronavirus told the WHO team that his parents had shopped there
+  url: https://www.wsj.com/articles/in-hunt-for-covid-19-origin-patient-zero-points-to-second-wuhan-market-11614335404
+  publisher: Wall Street Journal
